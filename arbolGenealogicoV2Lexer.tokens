@@ -1,0 +1,12 @@
+MAS=1
+LPAR=2
+RPAR=3
+COMA=4
+FALLECIDO=5
+NOMBRE=6
+WS=7
+'+'=1
+'{'=2
+'}'=3
+','=4
+'#'=5
